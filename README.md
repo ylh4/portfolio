@@ -20,4 +20,3 @@ This github accounthosts my major contributions as a side projects that include:
 
 Within this page, you can find the my latest work as follows:
 - 🔭 [The untold story in the current conflict in Ethiopia](https://github.com/ylh4/blog/tree/master/blogs/current_conflict_ethiopia) 
--->
