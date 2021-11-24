@@ -8,9 +8,10 @@ Born and raised in rural Ethiopia, I have been watching as my country makes the 
 
 With background in data science and international development. I use machine learning and deep learning applications to gain insights from data. My research broadly adress the following objectives:
 
-    Forecasting conflict at sub-national level?
-    Predicting the pattern and magnitude of forced displacement within and across countries?
-    Detecting violence using online data
+    Forecasting conflict at sub-national level;
+    Predicting the pattern and magnitude of forced displacement within and across countries;
+    Detecting violence using online data; and
+    Analysing the root causes of violence and conflict
 
 This github accounthosts my major contributions as a side projects that include:
 
