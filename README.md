@@ -1,23 +1,59 @@
-# Using data science for Peace
+# Yared Hurisa
 
-## About me
+## About Me
 
-My name is Yared Hurisa. I am an applied scientist passionate about building data sceince products that could serve the disadvantaged populations in Africa and elswhere!
+I am Yared Hurisa, a seasoned data scientist with over a decade of experience specializing in monitoring, evaluation, data science, knowledge management, and research. Holding two master's degrees in International Development Policy and Agricultural Economics, my career has been driven by a passion for utilizing data to inform policy and outcomes, especially in health and development sectors.
 
-Born and raised in rural Ethiopia, I have been watching as my country makes the headlines on conflict and climate change induced disasters especially in recent years. The devastating impact of conflict in my country and the region is heartbreaking. Hence, for me, there is nothing like working on projects that reduce the impact of pressing issues such as conflict and climate change. This include include informing policies and programmes with data and data science tools.
+## Education
 
-With background in data science and international development. I use machine learning and deep learning applications to gain insights from data. My research broadly adress the following objectives:
+- **MA International Development Policy** - Duke University Sanford School of Public Policy, 2020
+- **MSc Agricultural Economics** - Haramaya University, Ethiopia, 2012
+- **BA Economics** - Haramaya University, Ethiopia, 2006
 
-    Forecasting conflict at sub-national level;
-    Predicting the pattern and magnitude of forced displacement within and across countries;
-    Detecting violence using online data; and
-    Analysing the root causes of violence and conflict
+## Work Experience
 
-This github accounthosts my major contributions as a side projects that include:
+- **Data Analyst II, UNC Health**, Morrisville, North Carolina (Feb 2024 – Present)
+  - Specialized in analytics and visualization within the Equity and Inclusion Department, ensuring data integrity and developing data-driven strategies.
 
-- 🔭 A personal [blog](http://www.datascienceforpeace.com/) application that serve as a foundation for continous learning and blogging.
-- 🔭 An [application](http://conflictforecastingmodel.herokuapp.com/) that uses machine learning technique to forecast conflict in Ethiopia.
-- 🔭 Posting [blogs](http://www.datascienceforpeace.com/blog) on periodic basis on conflict and climate change primarly in Ethiopia
+- **Data Scientist IV, American Institutes for Research (AIR)**, Chapel Hill, North Carolina (Sep 2021 – Aug 2023)
+  - Led complex technical tasks for structured and unstructured data analysis, including econometrics and machine learning.
 
-Within this page, you can find the my latest work as follows:
-- 🔭 [The untold story in the current conflict in Ethiopia](https://github.com/ylh4/blog/tree/master/blogs/current_conflict_ethiopia) 
+- **Applied Scientist-II, Kimetrica**, Durham, North Carolina (Sep 2020 – Aug 2021)
+  - Developed forecasting models for conflict and internal displacement as part of the DARPA World Modelers Project.
+
+- **Knowledge Manager, Friedman School of Nutrition Science and Policy, Tufts University**, Addis Ababa, Ethiopia (Apr 2017 – Oct 2018)
+  - Implemented knowledge management strategy and tools for the USAID Growth through Nutrition project.
+
+- **Technical Advisor/Knowledge Solutions, Kimetrica**, Addis Ababa, Ethiopia (Oct 2014 – Mar 2017)
+  - Provided technical assistance and led surveys for the USAID Pastoralist Areas Resilience Improvement through Market Expansion (PRIME) Project.
+
+## Achievements
+
+- Developed conflict and internal displacement forecasting models under DARPA's World Modelers Project, with the capacity to predict events up to one year in advance.
+- Led the knowledge management plan for the Growth through Nutrition program, enhancing project-wide data quality and accessibility.
+- Received the 2020 Data Science Fellowship from The Data Incubator and the 2018-2020 Rotary Peace Fellowship from Duke University.
+
+## Skills
+
+- Proficient in Python, SQL, Tableau, and Power BI, with a solid foundation in statistics, machine learning, and predictive modeling.
+- Experienced in managing large datasets and transforming them into meaningful business insights through advanced data mining and natural language processing.
+- Effective communicator capable of bridging the gap between technical teams and business stakeholders.
+
+## Languages
+
+- English (Fluent)
+- Amharic (Fluent)
+
+## Relevant Certificates and Trainings
+
+- Coursera: Introduction to Machine Learning (2019)
+- MITx certificates (edx.org) in Development Policy, Global Poverty, Data Analysis for Social Scientists, and Evaluating Social Programs (2016-17)
+- Advanced econometrics training using STATA (Ethiopian Economics Association, 2012)
+
+## Publications (Sample)
+
+- Yared H. (2021). "Conflict due to climate change: a univariate analysis." [Blog post].
+- Yared H. (2021). "Analysis of PM Abiy Ahmed’s Tweets and Public Response." [Blog post].
+- Yared L., Fekadu B., & Bekele H. (2015). "Climate Change and Variability: Implications for Household Food Security in Agro-Pastoral Areas of Jijiga District, Eastern Ethiopia." Journal of Ethiopian Economics.
+
+I look forward to contributing my expertise to your team and furthering our shared mission in the health sector.
